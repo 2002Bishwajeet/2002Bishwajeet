@@ -19,6 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Firebase Authentication using Flutter and Riverpod](https://bishwajeet-techmaster.medium.com/firebase-authentication-using-flutter-and-riverpod-f302ab749383?source=rss-d56294dc62c4------2)
+- [GitHub CoPilot — My Impressions thus far](https://bishwajeet-techmaster.medium.com/github-copilot-my-impressions-thus-far-e93097fbd679?source=rss-d56294dc62c4------2)
+- [CppCon 2021- Hybrid C++ Conference (Online + In Person)](https://bishwajeet-techmaster.medium.com/cppcon-2021-hybrid-c-conference-online-in-person-89fd6534acf7?source=rss-d56294dc62c4------2)
+- [Open Source — How to get Started](https://bishwajeet-techmaster.medium.com/open-source-how-to-get-started-cfb2921dc26d?source=rss-d56294dc62c4------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
