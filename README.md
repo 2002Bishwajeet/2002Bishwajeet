@@ -36,6 +36,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/biswa20p"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="biswa20p" /></a></p><br><br>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=2002bishwajeet&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="2002bishwajeet" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=2002bishwajeet&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="2002bishwajeet" /></p>
 
-<p>&nbsp;<img align="justify" src="https://github-readme-stats.vercel.app/api?username=2002bishwajeet&show_icons=true&theme=dark&locale=en" alt="2002bishwajeet" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=2002bishwajeet&show_icons=true&theme=dark&locale=en" alt="2002bishwajeet" /></p>
