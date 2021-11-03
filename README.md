@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [No Signal](https://github.com/2002Bishwajeet/no_signal)
 
-- 🌱 I’m currently learning **Unity**
+- 🌱 I’m currently learning **SFML and other CPP libraries**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
