@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Flutter, Dart, Appwrite and Unity**
 
-- 📫 How to reach me **bishwajeet.techmaster@gmail.com**
+- 📫 How to reach me **bishwajeet.parhi@ieee.org**
 
 - ⚡ Fun fact **I am great at giving sarcastic comment**
 
