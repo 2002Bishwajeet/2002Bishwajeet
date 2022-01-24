@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **bishwajeet.parhi@ieee.org**
 
-- ⚡ Fun fact **I am great at giving sarcastic comment**
+- ⚡ Fun fact **I get superproductive when my college exams are around**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
