@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 📝 I write articles on [https://bishwajeet-techmaster.medium.com/](https://bishwajeet-techmaster.medium.com/)
+- 📝 I write articles on [https://bishwajeet-parhi.medium.com/](https://bishwajeet-parhi.medium.com/)
 
 - 💬 Ask me about **Flutter, Dart, Appwrite and Unity**
 
