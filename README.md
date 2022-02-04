@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **bishwajeet.parhi@ieee.org**
 
-- ⚡ Fun fact **I get superproductive when my college exams are around**
+- ⚡ Fun fact **I make my own memes**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
