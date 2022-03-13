@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2002bishwajeet&label=Profile%20views&color=0e75b6&style=flat" alt="2002bishwajeet" /> </p>
 
-- 🔭 I’m currently working on [Dino Thunder](https://github.com/2002Bishwajeet/Dino-Thunder)
+- 🔭 I’m currently working on [CPP SDK for Appwrite](https://github.com/appwrite/sdk-generator/pull/363)
 
-- 🌱 I’m currently learning **SFML and other CPP libraries**
+- 🌱 I’m currently learning **Core CS Subjects**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
