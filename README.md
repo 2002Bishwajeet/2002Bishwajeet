@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2002bishwajeet&label=Profile%20views&color=0e75b6&style=flat" alt="2002bishwajeet" /> </p>
 
-- 🔭 I’m currently working on [CPP SDK for Appwrite](https://github.com/appwrite/sdk-generator/pull/363)
+- 🔭 I’m currently working on [Mini Wars](https://github.com/2002Bishwajeet/mini_wars)
 
 - 🌱 I’m currently learning **Core CS Subjects**
 
