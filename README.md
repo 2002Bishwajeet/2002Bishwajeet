@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Mini Wars](https://github.com/2002Bishwajeet/mini_wars)
 
-- 🌱 I’m currently learning **Core CS Subjects**
+- 🌱 I’m currently learning **Game Development**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
