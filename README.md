@@ -31,7 +31,7 @@
 <a href="https://twitter.com/biswa_20p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="biswa_20p" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/2002bishwajeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="2002bishwajeet" height="30" width="40" /></a>
 <a href="https://instagram.com/biswa_20p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="biswa_20p" height="30" width="40" /></a>
-<a href="https://medium.com/@bishwajeet-techmaster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bishwajeet-techmaster" height="30" width="40" /></a>
+<a href="https://medium.com/@bishwajeet-parhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bishwajeet-techmaster" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCS3Ru1M5ZQKEgfcdU7yVObQ/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucs3ru1m5zqkegfcdu7yvobq" height="30" width="40" /></a>
 </p>
 
