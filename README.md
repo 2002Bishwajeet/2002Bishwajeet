@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How I used Gitpod to make an Open Source Contribution in Appwrite](https://bishwajeet-parhi.medium.com/how-i-used-gitpod-to-make-an-open-source-contribution-in-appwrite-9bc1f74ef155?source=rss-d56294dc62c4------2)
 - [Building No Signal using Flutter and Appwrite [Part 3]](https://bishwajeet-parhi.medium.com/building-no-signal-using-flutter-and-appwrite-part-3-90b08db16ec?source=rss-d56294dc62c4------2)
 - [Building No Signal using Flutter and Appwrite [Part 2]](https://bishwajeet-parhi.medium.com/building-no-signal-using-flutter-and-appwrite-part-2-565c5eb3b484?source=rss-d56294dc62c4------2)
 - [Building No Signal App using Flutter and Appwrite](https://bishwajeet-parhi.medium.com/building-no-signal-app-using-flutter-and-appwrite-8b31358b5975?source=rss-d56294dc62c4------2)
 - [Firebase Authentication using Flutter and Riverpod](https://bishwajeet-parhi.medium.com/firebase-authentication-using-flutter-and-riverpod-f302ab749383?source=rss-d56294dc62c4------2)
-- [GitHub CoPilot — My Impressions thus far](https://bishwajeet-parhi.medium.com/github-copilot-my-impressions-thus-far-e93097fbd679?source=rss-d56294dc62c4------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
