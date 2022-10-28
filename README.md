@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Encryption and Cryptography**
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+<!-- - 👯 I’m looking to collaborate on **Open Source Projects** -->
 
 - 📝 I write articles on [https://bishwajeet-parhi.medium.com/](https://bishwajeet-parhi.medium.com/)
 
