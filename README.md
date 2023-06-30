@@ -3,11 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2002bishwajeet&label=Profile%20views&color=0e75b6&style=flat" alt="2002bishwajeet" /> </p>
 
+<!--
 - 🔭 I’m currently working on [Mini Wars](https://github.com/2002Bishwajeet/mini_wars)
 
 - 🌱 I’m currently learning **Encryption and Cryptography**
 
-<!-- - 👯 I’m looking to collaborate on **Open Source Projects** -->
+ - 👯 I’m looking to collaborate on **Open Source Projects** -->
 
 - 📝 I write articles on [https://bishwajeet-parhi.medium.com/](https://bishwajeet-parhi.medium.com/)
 
