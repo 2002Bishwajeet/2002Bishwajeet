@@ -20,11 +20,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I built an Auth Template powered by React Native and Appwrite](https://bishwajeet-parhi.medium.com/i-built-an-auth-template-powered-by-react-native-and-appwrite-4a0b7ee90ba6?source=rss-d56294dc62c4------2)
 - [Can we build a Cross-Platform game using Flutter and Flame?](https://bishwajeet-parhi.medium.com/can-we-build-a-cross-platform-game-using-flutter-and-flame-3132db7c74d6?source=rss-d56294dc62c4------2)
 - [How I used Gitpod to make an Open Source Contribution in Appwrite](https://bishwajeet-parhi.medium.com/how-i-used-gitpod-to-make-an-open-source-contribution-in-appwrite-9bc1f74ef155?source=rss-d56294dc62c4------2)
 - [Building No Signal using Flutter and Appwrite [Part 3]](https://bishwajeet-parhi.medium.com/building-no-signal-using-flutter-and-appwrite-part-3-90b08db16ec?source=rss-d56294dc62c4------2)
 - [Building No Signal using Flutter and Appwrite [Part 2]](https://bishwajeet-parhi.medium.com/building-no-signal-using-flutter-and-appwrite-part-2-565c5eb3b484?source=rss-d56294dc62c4------2)
-- [Building No Signal App using Flutter and Appwrite](https://bishwajeet-parhi.medium.com/building-no-signal-app-using-flutter-and-appwrite-8b31358b5975?source=rss-d56294dc62c4------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
