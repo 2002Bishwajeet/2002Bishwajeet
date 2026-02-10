@@ -2,6 +2,8 @@
 
 4+ years conquering digital dungeons. Specializing in minimal interfaces and robust frontend architectures.
 
+Fun fact: you will always find me near the protein section of Lidl.
+
 ## What I do ⚔️
 
 - Software architecture and design
