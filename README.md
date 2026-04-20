@@ -13,7 +13,7 @@ Fun fact: you will always find me near the protein section of Lidl.
 - Cross-platform development on Windows, Linux, and macOS
 
 ## Recent projects 🚀
-
+- [Deadliner](https://thedeadliner.app) - Stop Procrastinating and start deadlining
 - [Journal](https://github.com/2002Bishwajeet/journal) - Offline-first premium notes app powered by Homebase
 - [ogbanana](https://github.com/2002Bishwajeet/ogbanana) - AI-powered Open Graph meta-tag and social preview image generator
 - [stepmaker](https://github.com/2002Bishwajeet/stepmaker) - Offline CAD-to-work-instructions generator for multilingual teams
