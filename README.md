@@ -44,7 +44,7 @@ Fun fact: you will always find me near the protein section of Lidl.
 
 ## Writing ✍️
 
-- https://bishwajeet-parhi.medium.com/
+- [https://bishwajeet-parhi.medium.com/](https://about.bishwajeetparhi.dev/blog/)
 
 ## Blog posts 📝
 
