@@ -62,5 +62,5 @@ Fun fact: you will always find me near the protein section of Lidl.
 - GitHub: https://github.com/2002Bishwajeet
 - LinkedIn: https://linkedin.com/in/2002bishwajeet
 - Twitter: https://twitter.com/biswa_20p
-- Instagram: https://instagram.com/biswa_20p
+- Instagram: https://instagram.com/2002Bishwajeet
 - Medium: https://medium.com/@bishwajeet-parhi
