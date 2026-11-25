@@ -1,39 +1,56 @@
-# Hi, I'm Bishwajeet Parhi
+# Hi 👋, I'm Bishwajeet Parhi.
 
-I build AI agents and the harnesses around them: tool calling, evals, MCP servers, agent security, and the apps they live in. I drive Claude Code and other coding agents every day, and most of my time goes into making agents reliable.
+4+ years conquering digital dungeons. These days the dungeons are AI agents: I build them, and the harnesses they run in.
 
-Freiburg, Germany. Fun fact: you will always find me near the protein section of Lidl.
+Fun fact: you will always find me near the protein section of Lidl.
 
-## What I work on
+## What I do ⚔️
 
-- **Agent harnesses**: tool-call design, per-model tool-call evals, fixing repeat calls and unrequested edits, small on-device models (Qwen, WebLLM)
-- **MCP and agent tooling**: MCP servers, sandboxed `run_script` tools, prompt-injection and data-exfiltration defences
-- **Driving coding agents**: Claude Code, skills, hooks, subagents, long-running agents across my own machines
-- **Distributed training (M.Sc. thesis, in progress)**: PyTorch training across mixed GPU generations, NCCL, FSDP
-- **Apps**: offline-first, local-first and encrypted, on web, mobile (React Native, Flutter, Kotlin Multiplatform) and desktop
+- Agent harnesses: tool calling, evals, small on-device models
+- MCP servers and tools for AI agents
+- Driving Claude Code with skills, hooks and subagents
+- Distributed PyTorch training on mixed GPUs (my master's thesis)
+- Full-stack web development with Bun, Node.js, React, and TypeScript
+- Android and iOS apps with React Native, Flutter, and Kotlin Multiplatform
 
-## Recent projects
-
-- [Yantra](https://github.com/2002Bishwajeet/yantra) - A self-hosted control plane for ssh, tmux and coding agents across your own machines, over Tailscale
-- [Journal](https://github.com/2002Bishwajeet/journal) - Offline-first notes app with a built-in agent and MCP server, powered by Homebase
-- [pglite-cipher](https://github.com/2002Bishwajeet/pglite-cipher) - Encryption at rest for PGlite (Postgres in the browser): AES-256-GCM via WebCrypto, tamper detection, zero dependencies
+## Recent projects 🚀
+- [Yantra](https://github.com/2002Bishwajeet/yantra) - Self-hosted control plane for ssh, tmux and coding agents across your own machines
+- [Journal](https://github.com/2002Bishwajeet/journal) - Offline-first notes app with an AI agent, powered by Homebase
+- [pglite-cipher](https://github.com/2002Bishwajeet/pglite-cipher) - Encryption at rest for PGlite, like SQLCipher for Postgres in the browser
+- [Deadliner](https://thedeadliner.app) - Stop Procrastinating and start deadlining
 - [Autosuggest](https://autosuggest.cloudx.run) - Autosuggestions in every input box
-- [Deadliner](https://thedeadliner.app) - Stop procrastinating and start deadlining
-- [ogbanana](https://github.com/2002Bishwajeet/ogbanana) - AI Open Graph meta-tag and social preview image generator
+- [ogbanana](https://github.com/2002Bishwajeet/ogbanana) - AI-powered Open Graph meta-tag and social preview image generator
 - [stepmaker](https://github.com/2002Bishwajeet/stepmaker) - Offline CAD-to-work-instructions generator for multilingual teams
+- [json-to-sql](https://github.com/2002Bishwajeet/json-to-sql) - Ultra-fast JSON to SQL conversion powered by Haskell
 
-## Stack
+## Tech stack 🧰
 
-TypeScript, Python, Kotlin, Rust, Dart, C/C++ · React, React Native, Flutter, Kotlin Multiplatform, Tauri · Bun, Node.js, Postgres/PGlite, SQLite · PyTorch, NCCL · Claude Code, MCP, WebLLM · Docker, Linux, Tailscale
+**AI and agents**
+- Claude Code, MCP, WebLLM, PyTorch, NCCL
 
-## Open source
+**Frontend**
+- React, React Native, Flutter, Kotlin Multiplatform, Electron, Tauri
+
+**Languages**
+- TypeScript, JavaScript, Python, Rust, Kotlin, Dart, Haskell, C, C++, C#
+
+**Backend and data**
+- Bun, Node.js, Postgres, PGlite, SQLite, Appwrite, Firebase
+
+**Tools**
+- Docker, Git, Linux, Tailscale
+
+
+## Open source contributions 🤝
 
 - [Appwrite ecosystem commits](https://github.com/search?q=org%3Aappwrite+org%3Autopia-php+org%3Aopen-runtimes+is%3Apr+author%3A2002Bishwajeet&type=commits&s=committer-date&o=desc)
 - [Homebase commits](https://github.com/search?q=org%3Ahomebase-id+is%3Apr+author%3A2002Bishwajeet&type=commits&s=committer-date&o=desc)
 
-## Writing
+## Writing ✍️
 
-- [Blog](https://about.bishwajeetparhi.dev/blog/)
+- [https://about.bishwajeetparhi.dev/blog](https://about.bishwajeetparhi.dev/blog/)
+
+## Blog posts 📝
 
 <!-- BLOG-POST-LIST:START -->
 - [I built an Auth Template powered by React Native and Appwrite](https://bishwajeet-parhi.medium.com/i-built-an-auth-template-powered-by-react-native-and-appwrite-4a0b7ee90ba6?source=rss-d56294dc62c4------2)
@@ -43,9 +60,11 @@ TypeScript, Python, Kotlin, Rust, Dart, C/C++ · React, React Native, Flutter, K
 - [Building No Signal using Flutter and Appwrite [Part 2]](https://bishwajeet-parhi.medium.com/building-no-signal-using-flutter-and-appwrite-part-2-565c5eb3b484?source=rss-d56294dc62c4------2)
 <!-- BLOG-POST-LIST:END -->
 
-## Contact
+## Contact 📬
 
 - Email: bishwajeet.techmaster@gmail.com
+- GitHub: https://github.com/2002Bishwajeet
 - LinkedIn: https://linkedin.com/in/2002bishwajeet
-- X: https://x.com/biswa_20p
+- Twitter: https://twitter.com/biswa_20p
+- Instagram: https://instagram.com/2002Bishwajeet
 - Medium: https://medium.com/@bishwajeet-parhi
